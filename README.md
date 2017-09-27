@@ -1,2 +1,2 @@
-# LM051
-My online portfolio demonstrating projects and individual pieces of code I have created.
+# My menu-driven, object orientated java project.
+This project will allow users to create an account. This requires a password, username and email address. The password has an outline which the user must follow to continue, and it made clear within the program. Once an account exists the user can logon to that account. This will prompt a success message, and bring the user back to the main menu. They could choose to delete their account, which requires the username, email and pasword to do so. All data is stored into the Users.txt file.
