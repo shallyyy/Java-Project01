@@ -1,0 +1,4 @@
+example,exampleNickName,examplePassword,ExampleEmail
+example1,exampleNickName1,examplePassword1,ExampleEmail1
+example2,exampleNickName2,examplePassword2,ExampleEmail2
+exampl3,exampleNickName3,examplePassword3,ExampleEmail3
